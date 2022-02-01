@@ -12,5 +12,5 @@
 ### to run the project
 `npm run start`
 
-If un wanna call If you want to talk to me, contact me on my discord: Nevest#2008
-Project credits go to b7web and nevest.
+<!-- If you want to talk to me, contact me on my discord: Nevest#2008 -->
+<!-- Project credits go to b7web and nevest. -->
