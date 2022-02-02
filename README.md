@@ -10,6 +10,9 @@
 `npm install`
 
 ### to run the project
+`npm run start`
+
+### to change project files, develop.
 `npm run start-dev`
 
 This is a simple project using mustache and nodets, to study routes of a website, you can use this to learn about functions, routes, a bit of css, and the basic of mustache.
