@@ -1,4 +1,4 @@
-# canil-node
+# node-express
 
 ### global prerequisites
 `npm install -g nodemon typescrip ts-node`
